@@ -1,0 +1,15 @@
+{
+    "name": "kkaffa/product-view",
+    "description": "Show a button on the product edit page to view the product in the frontend ",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0"
+    ],
+    "authors": [
+        {
+            "name": "Kevin Kaffa",
+            "email": "k.kaffa@xsarus.nl"
+        }
+    ]
+}
