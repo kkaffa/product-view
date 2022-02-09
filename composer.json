@@ -3,6 +3,7 @@
     "description": "Show a button on the product edit page to view the product in the frontend ",
     "minimum-stability": "stable",
     "version": "1.0.0",
+    "type": "magento2-module",
     "license": [
         "OSL-3.0"
     ],
@@ -11,5 +12,14 @@
             "name": "Kevin Kaffa",
             "email": "k.kaffa@xsarus.nl"
         }
-    ]
+    ],
+    "require": {
+        "php": "~7.3|~7.4"
+    },
+    "autoload": {
+        "files": ["registration.php"],
+        "psr-4": {
+            "Kkaffa\\ProductView\\": ""
+        }
+    }
 }
