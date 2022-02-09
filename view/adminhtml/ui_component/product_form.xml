@@ -2,7 +2,7 @@
 <form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
     <argument name="data" xsi:type="array">
         <item name="buttons" xsi:type="array">
-            <item name="viewProduct" xsi:type="string">xsarus\ProductView\Block\Adminhtml\Product\ViewProduct</item>
+            <item name="viewProduct" xsi:type="string">Kkaffa\ProductView\Block\Adminhtml\Product\ViewProduct</item>
         </item>
     </argument>
 </form>
